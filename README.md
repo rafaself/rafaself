@@ -1,32 +1,30 @@
-<div align="center">
-  
-### Bem vindo(a)!
-Olá, me chamo Rafael, sou engenheiro e desenvolvedor.<br>
-<img loading="lazy" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
+# Rafael — Software Developer
 
-### Tecnologias
+I build reliable, maintainable software with a strong focus on clean architecture, backend development, and practical delivery. I enjoy working across the stack and turning real-world requirements into production-ready systems.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+## What I do
+- **Backend APIs & Services:** Python (**Django**, **FastAPI**) and RESTful architectures
+- **Full-Stack Development:** **TypeScript/JavaScript**, **React**, **Vue**, HTML/CSS
+- **.NET Development:** **C#** and modern .NET tooling when the ecosystem fits
+- **Data & Automation:** **NumPy**, **Pandas**, scripting, and workflow automation
+- **Engineering Practices:** testing with **Pytest**, code quality, and maintainable design
 
-### To inifity and beyond!
+## Tech Stack
+**Languages:** Python, TypeScript
+**Backend:** Django, FastAPI, Nest
+**Frontend:** React, Vue, HTML, CSS, Vuetify  
+**Tools:** Git, Linux, Docker, VS Code
+**Infra:** Docker
 
-<img loading="lazy" src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg"/>
+## Highlights
+- Built and maintained web applications and APIs, emphasizing readability, stability, and predictable deployments
+- Comfortable collaborating on existing codebases, improving structure, and shipping incremental enhancements
 
-</div>
+## GitHub Focus
+- Backend services, API design, and integration work  
+- Full-stack features with a clean UI and straightforward DX  
+- Utilities and automation that reduce manual effort
+
+## Contact
+- Website: **[https://alsogravity.com/]**
+- Email: **[rafaondjango@gmail.com]**
