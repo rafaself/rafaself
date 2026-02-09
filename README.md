@@ -44,5 +44,4 @@
 
 ## Contact
 
-- Website: https://alsogravity.com/
 - Email: rafaondjango@gmail.com
