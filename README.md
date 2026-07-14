@@ -1,12 +1,8 @@
-### 📚 Create your reading room and read together in [TowelBooks](https://towelbooks.com)
+# 📚 Create your reading room with [TowelBooks](https://towelbooks.com)
 
----
+👋 Hi, I'm Rafael, builder of [TowelBooks](https://towelbooks.com).
 
-👋 Hi, I'm Rafael
-
-I build reliable, maintainable software with a strong focus on clean architecture, backend engineering, and practical delivery. I enjoy working across the stack and turning real-world requirements into production-ready systems. Builder of [TowelBooks](https://towelbooks.com).
-
-My focus is, mainly, in engineering and developing softwares. **Let's learn.**
+My focus is, mainly, in engineering and developing softwares.
 
 🇧🇷 **Brazil** | 💻 **Software Engineer** | ⚡ **Electrical Engineer**
 
