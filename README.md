@@ -4,7 +4,7 @@
 
 My focus is, mainly, in engineering and developing softwares.
 
-🇧🇷 **Brazil** | 💻 **Software Engineer** | ⚡ **Electrical Engineer**
+🇧🇷 **Brazil** | 💻 **Software Developer** | ⚡ **Electrical Engineer**
 
 ### Tech Stack
 
