@@ -4,7 +4,7 @@ Software Engineer and Electrical Engineer building end-to-end products, develope
 
 Currently building TowelBooks, a production reading platform developed extensively through an agentic engineering workflow, and Solgon, an engineering platform.
 
-🇧🇷 **Brazil** | 💻 **Software Developer** | ⚡ **Electrical Engineer**
+🇧🇷 **Brazil** | 💻 **Software Developer** | 🤖 **Agentic Software Engineer** | ⚡ **Electrical Engineer**
 
 📚 Create your reading room with [TowelBooks](https://towelbooks.com)
 
