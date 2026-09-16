@@ -1,6 +1,8 @@
-👋 Hey
+👋 Hey, I'm Rafael
 
-Focus, mainly, in engineering and developing softwares.
+Software Engineer and Electrical Engineer building end-to-end products, developer tools, and AI-agent-driven engineering workflows. Mainly working with TypeScript, Python, AWS, and Cloudflare.
+
+Currently building TowelBooks, a production reading platform developed extensively through an agentic engineering workflow, and Solgon, an engineering platform.
 
 🇧🇷 **Brazil** | 💻 **Software Developer** | ⚡ **Electrical Engineer**
 
@@ -21,6 +23,6 @@ Focus, mainly, in engineering and developing softwares.
 - Utilities and automation that reduce manual effort
 - Hobby projects and experiments (kept tidy and well-documented)
 
-### Contact
+### Open Contact
 
 ✉️ rafaondjango@gmail.com
