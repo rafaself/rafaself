@@ -2,11 +2,13 @@
 
 Software Engineer and Electrical Engineer building end-to-end products, developer tools, and AI-agent-driven engineering workflows. Mainly working with TypeScript, Python, AWS, and Cloudflare.
 
-Currently building TowelBooks, a production reading platform developed extensively through an agentic engineering workflow, and Solgon, an engineering platform.
+Currently building production applications with extensive development through an agentic engineering workflow.
 
 🇧🇷 **Brazil** | 💻 **Software Developer** | 🤖 **Agentic Software Engineer** | ⚡ **Electrical Engineer**
 
-📚 Create your reading room with [TowelBooks](https://towelbooks.com)
+### Applications
+
+[📚 TowelBooks](https://towelbooks.com) - Your reading home
 
 ### Tech Stack
 
@@ -22,7 +24,8 @@ Currently building TowelBooks, a production reading platform developed extensive
 - Full-stack features with a clean UI and straightforward developer experience
 - Utilities and automation that reduce manual effort
 - Hobby projects and experiments (kept tidy and well-documented)
+- Contributing to **open source** projects
 
-### Open Contact
+### Contact
 
 ✉️ rafaondjango@gmail.com
