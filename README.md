@@ -10,6 +10,10 @@ Currently building production applications with extensive development through an
 
 [📚 TowelBooks](https://towelbooks.com) - Your reading home
 
+[🀄 Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free (Client-side web application)
+
+*In progress...*
+
 ### Tech Stack
 
 * **Languages:** Python, TypeScript
