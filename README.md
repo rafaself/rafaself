@@ -12,7 +12,7 @@ Currently building production applications with extensive development through an
 
 🀄 [Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free.
 
-🇯🇵 [OpenNihongo - Repository](https://github.com/rafaself/opennihongo) - A local-first platform for learning the Japanese language. (Client-side web application)
+🇯🇵 [OpenNihongo - Repository](https://github.com/rafaself/opennihongo) - A local-first platform for learning the Japanese language.
 
 ### Tech Stack
 
