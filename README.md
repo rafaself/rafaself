@@ -1,34 +1,34 @@
 👋 Hey, I'm Rafael
 
-Software Engineer and Electrical Engineer building end-to-end products, developer tools, and AI-agent-driven engineering workflows. Mainly working with TypeScript, Python, AWS, and Cloudflare.
+Software Developer building end-to-end products, open source projects, developer tools, and AI-agent-driven workflows.
 
-Currently building production applications with extensive development through an agentic engineering workflow.
+Currently building production applications with extensive development through an AI agentic code workflow.
 
-🇧🇷 **Brazil** | 💻 **Software Developer** | 🤖 **Agentic Software Engineer** | ⚡ **Electrical Engineer**
+🇧🇷 **Brazil** | 💻 **Software Developer** | 🤖 **AI Agentic Developer** | ⚡ **Electrical Engineer**
 
 ### Applications
 
-[📚 TowelBooks](https://towelbooks.com) - Your reading home
+📚 [TowelBooks](https://towelbooks.com) - Your reading home.
 
-[🀄 Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free (Client-side web application)
+🀄 [Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free.
 
-*In progress...*
+🇯🇵 [OpenNihongo - Repository](https://github.com/rafaself/opennihongo) - A local-first platform for learning the Japanese language. (Client-side web application)
 
 ### Tech Stack
 
 * **Languages:** Python, TypeScript
 * **Backend:** Django, FastAPI, NestJS, Express
 * **Frontend:** React, Vue, HTML, CSS, Vuetify
-* **Tools:** Git, Linux, Docker, Cursor, MCP, AI Agents
-* **Infra:** AWS, Cloudflare 
+* **Tools:** Git, Linux, Docker, Codex, AI Agents
+* **Infra:** AWS, Cloudflare
 
 ### GitHub Focus
 
+- Contributing to **open source** projects
 - Backend services, API design, and integrations
-- Full-stack features with a clean UI and straightforward developer experience
+- Full-stack features with a clean UI/UX and straightforward developer experience
 - Utilities and automation that reduce manual effort
 - Hobby projects and experiments (kept tidy and well-documented)
-- Contributing to **open source** projects
 
 ### Contact
 
