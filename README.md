@@ -14,7 +14,7 @@ I've publishing some posts you can check in [dev.to - rafaelsef](https://dev.to/
 
 🀄 [Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free.
 
-🇯🇵 [OpenNihongo - Repository](https://github.com/rafaself/opennihongo) - A local-first platform for learning the Japanese language.
+🇯🇵 Building a platform to learn the Japanese Language.
 
 ### Tech Stack
 
