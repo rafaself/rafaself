@@ -14,8 +14,6 @@ I've publishing some posts you can check in [dev.to - rafaelsef](https://dev.to/
 
 🀄 [Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free.
 
-🇯🇵 Building a platform to learn the Japanese Language.
-
 ### Tech Stack
 
 * **Languages:** Python, TypeScript
