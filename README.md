@@ -4,7 +4,7 @@ Software Developer building end-to-end products, open source projects, developer
 
 Currently building production applications with extensive development through an AI agentic code workflow.
 
-I've publishing some posts you can check in [dev.to - rafaelsef](https://dev.to/rafael_dev).
+I've publishing some posts you can check in [dev.to - rafaself](https://dev.to/rafael_dev).
 
 🇧🇷 **Brazil** | 💻 **Software Developer** | 🤖 **AI Agentic Developer** | ⚡ **Electrical Engineer**
 
