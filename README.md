@@ -17,17 +17,16 @@ TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · 
 ### Focus
 
 - Backend and Frontend services, APIs, and integrations
-- End-to-end product development
 - Developer tooling and automation
 - Open source
 - AI-agent-driven development workflows
 
 ### Writing
 
-I occasionally publish in **[dev.to/rafael_dev](https://dev.to/rafael_dev)** about software engineering and topics I'm studying.
+I occasionally publish in **[dev.to/rafael_dev](https://dev.to/rafael_dev)** about software development, AI and topics I'm studying.
 
 ### Contact
 
-Open to interesting projects, collaborations, and occasional freelance work.
+Open to projects, collaborations, and freelance work.
 
 📧 rafaondjango@gmail.com
