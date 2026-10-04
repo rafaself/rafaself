@@ -1,35 +1,33 @@
-👋 Hey, I'm Rafael
+**👋 Hey, I'm Rafael**
 
-Software Developer building end-to-end products, open source projects, developer tools, and AI-agent-driven workflows.
+Software Developer building end-to-end products, backend systems, developer tools, open-source projects, and automation. Using AI-agent-driven workflows extensively in software development.
 
-Currently building production applications with extensive development through an AI agentic code workflow.
-
-I've publishing some posts you can check in [dev.to - rafaself](https://dev.to/rafael_dev).
-
-🇧🇷 **Brazil** | 💻 **Software Developer** | 🤖 **AI Agentic Developer** | ⚡ **Electrical Engineer**
+💻 Software Developer · ⚡ Electrical Engineer · 🤖 AI Agentic Developer
 
 ### Applications
 
-📚 [TowelBooks](https://towelbooks.com) - Your reading home. You can read the [TowelBooks architecture](https://github.com/rafaself/towelbooks-engineering).
+📚 [TowelBooks](https://towelbooks.com) — Reading platform built and maintained end-to-end.  
 
-🀄 [Nonogram](https://nonogram.alsogravity.com) - Play nonogram for free.
+🀄 [Nonogram](https://nonogram.alsogravity.com) — Free web-based Nonogram puzzle game.
 
 ### Tech Stack
 
-* **Languages:** Python, TypeScript
-* **Backend:** Django, FastAPI, NestJS, Express
-* **Frontend:** React, Vue, HTML, CSS, Vuetify
-* **Tools:** Git, Linux, Docker, Codex, AI Agents
-* **Infra:** AWS, Cloudflare
+TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · Codex
 
-### GitHub Focus
+### Focus
 
-- Contributing to **open source** projects
-- Backend services, API design, and integrations
-- Full-stack features with a clean UI/UX and straightforward developer experience
-- Utilities and automation that reduce manual effort
-- Hobby projects and experiments (kept tidy and well-documented)
+- Backend and Frontend services, APIs, and integrations
+- End-to-end product development
+- Developer tooling and automation
+- Open source
+- AI-agent-driven development workflows
+
+### Writing
+
+I occasionally publish in [dev.to/rafael_dev](https://dev.to/rafael_dev) about software engineering and topics I'm studying.
 
 ### Contact
 
-✉️ rafaondjango@gmail.com
+Open to interesting projects, collaborations, and occasional freelance work.
+
+📧 **rafaondjango@gmail.com**
