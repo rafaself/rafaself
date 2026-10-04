@@ -24,10 +24,10 @@ TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · 
 
 ### Writing
 
-I occasionally publish in [dev.to/rafael_dev](https://dev.to/rafael_dev) about software engineering and topics I'm studying.
+I occasionally publish in **[dev.to/rafael_dev](https://dev.to/rafael_dev)** about software engineering and topics I'm studying.
 
 ### Contact
 
 Open to interesting projects, collaborations, and occasional freelance work.
 
-📧 **rafaondjango@gmail.com**
+📧 rafaondjango@gmail.com
