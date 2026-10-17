@@ -2,8 +2,6 @@ Hey, I'm Rafael, Software Developer building end-to-end products, backend system
 
 💻 Software Developer · ⚡ Electrical Engineer · 🤖 AI Agentic Developer
 
-#### Tech Stack
-
 TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · Codex · AI Agents
 
 #### Resources
