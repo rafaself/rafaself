@@ -4,17 +4,19 @@ Hey, I'm Rafael, Software Developer building end-to-end products, backend system
 
 #### Tech Stack
 
-TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · Codex
+TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · Codex · AI Agents
 
 #### Resources
 
-📚 [TowelBooks](https://towelbooks.com) — Reading platform built and maintained end-to-end.  
+📚 [TowelBooks](https://towelbooks.com) — Front-end sample of a reading platform.
 
-🀄 [Nonogram](https://nonogram.alsogravity.com) — Free web-based Nonogram puzzle game.
+🀄 [Nonogram](https://nonogram.alsogravity.com) — Free browser-based Nonogram puzzle game.
 
-🇯🇵 [OpenNihongo](https://rafaself.github.io/opennihongo/) - Free web-based Japanese Learning environment for free.
+🇯🇵 [OpenNihongo](https://rafaself.github.io/opennihongo/) — Free, web-based Japanese learning platform.
 
-📜 [Blog](https://dev.to/rafael_dev) — Writing about software development, AI and related topics.
+🖌️ [CodePen](https://codepen.io/Rafael-the-builder) — HTML/CSS experiments and UI prototypes.
+
+📜 [Blog](https://dev.to/rafael_dev) — Articles on software development, AI, and related topics.
 
 #### Contact
 
