@@ -12,6 +12,8 @@ TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · 
 
 🀄 [Nonogram](https://nonogram.alsogravity.com) — Free web-based Nonogram puzzle game.
 
+🇯🇵 [OpenNihongo](https://rafaself.github.io/opennihongo/) - Free web-based Japanese Learning environment for free.
+
 📜 [Blog](https://dev.to/rafael_dev) — Writing about software development, AI and related topics.
 
 #### Contact
