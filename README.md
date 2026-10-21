@@ -6,7 +6,7 @@ TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · 
 
 #### Resources
 
-📚 [TowelBooks](https://towelbooks.com) — Front-end sample of a reading platform.
+📚 [TowelBooks](https://towelbooks-ui-showcase.pages.dev/) — Front-end sample of a reading platform.
 
 🀄 [Nonogram](https://nonogram.alsogravity.com) — Free browser-based Nonogram puzzle game.
 
