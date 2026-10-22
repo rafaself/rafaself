@@ -6,6 +6,8 @@ TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · 
 
 #### Resources
 
+📜 [**My website**](https://rafaself.pages.dev/) — Articles on software development, AI, and related topics.
+
 📚 [TowelBooks](https://towelbooks-ui-showcase.pages.dev/) — Front-end sample of a reading platform.
 
 🀄 [Nonogram](https://nonogram.alsogravity.com) — Free browser-based Nonogram puzzle game.
@@ -13,8 +15,6 @@ TypeScript · NestJS · React · Vue · PostgreSQL · Docker · AWS · Linux · 
 🇯🇵 [OpenNihongo](https://rafaself.github.io/opennihongo/) — Free, web-based Japanese learning platform.
 
 🖌️ [CodePen](https://codepen.io/Rafael-the-builder) — HTML/CSS experiments and UI prototypes.
-
-📜 [Blog](https://dev.to/rafael_dev) — Articles on software development, AI, and related topics.
 
 #### Contact
 
