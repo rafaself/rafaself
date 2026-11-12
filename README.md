@@ -1,3 +1,3 @@
-Hey, I'm **Rafael**, **Software Engineer** building end-to-end products, backend systems, developer tools, open-source projects, and automation. Using **AI-agent-driven** workflows extensively in software development. I am open to projects, collaborations, and freelance work.
+Hey, I'm **Rafael**, a **Software Engineer** working primarily with **Python and TypeScript**. I'm open to new projects, collaborations, and freelance opportunities.
 
-Visit [**my website**](https://rafaself.pages.dev/) where you can find some articles on software engineer and related topics.
+Check out [**my website**](https://rafaself.pages.dev/), where I share articles about software, AI, and other technology topics.
